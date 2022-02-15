@@ -1,12 +1,28 @@
-### Howdy 👋
-I'm a CSUF computer science alumni. I am mostly interested in full stack web dev and data analytics. Currently working in Irvine, CA.
+# About
+- Graduated with a Bachelor's in Computer Science from California State University, Fullerton January 2022.
+- 3 total years of professional experience working with software, working at Kura Sushi as a Data Specialist and Cal State Fullerton as an instructional student assistant.
+- Hands-on experience in full stack web development, designing responsive front end user interfaces and scalable back end solutions.
+- Experience in Data Analytics using tools such as pandas or R, fetching data through APIs or web scraping and presenting the data.
 
-### Some of my favorite tools
-**Programming:** JavaScript, Python, C++, VBA, R
+LinkedIn: https://www.linkedin.com/in/devsean/
 
-**Front End:** HTML5, CSS, React.js, Chakra UI, Bootstrap, jQuery
+Personal Site: https://www.seanmitchell.dev/
 
-**Back End:** Node.js, Express, Foreman, FastAPI, redis, Postgres, MongoDB
+# Skills
+- **Programming Languages:** Python, JavaScript, C++, R, Visual Basic .NET
+- **Databases:** MongoDB, DynamoDB, Firestore, PostgreSQL, MySQL, Redis
+- **Web Tech:** React.js, Redux, Node.js, Express.js, HTML5, CSS3, jQuery, Bootstrap, JSON, XML
+- **Architecture:** REST APIs, MVC, Microservices
+- **Cloud:** AWS, EC2, Amplify, Lambda, Heroku, Vercel, Firebase
+- **Libraries:** pandas, Beautiful Soup, NumPy, OpenCV
+- **Tools:** Git, Microsoft Excel, Visual Studio Code
+- **Agile:** Scrum, Kanban      
+<br/><br/>
+> “There are only two kinds of languages: the ones people complain about and the ones nobody uses.”
+
+― Bjarne Stroustrup, The C++ Programming Language
+
+<br/><br/>
 
 
 
