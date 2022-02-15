@@ -17,14 +17,12 @@ Personal Site: https://www.seanmitchell.dev/
 - **Libraries:** pandas, Beautiful Soup, NumPy, OpenCV
 - **Tools:** Git, Microsoft Excel, Visual Studio Code
 - **Agile:** Scrum, Kanban      
-<br/><br/>
+<br/>
+
 > “There are only two kinds of languages: the ones people complain about and the ones nobody uses.”
 
 ― Bjarne Stroustrup, The C++ Programming Language
 
-<br/><br/>
-
-
-
-<!---[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slimsloth&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
+<!---[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slimsloth&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slimsloth&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+-->
